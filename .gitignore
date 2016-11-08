@@ -1,0 +1,6 @@
+npm-debug.log
+*.suo
+bin/
+bld/
+uwp-angular2-boilerplate/uwp-angular2-boilerplate.jsproj
+*.user
